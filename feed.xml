@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>每日科技速览</title>
+    <title>每日科技观察</title>
     <link>https://suxg001.github.io/daily-tech-news-podcast/</link>
     <description>每天十分钟，听懂科技大事。小北和阿哲双人播报，速览过去 24 小时最重要的科技新闻：人工智能、大模型、半导体、机器人、新能源汽车与互联网大厂动态，只讲发生了什么、为什么重要，不灌水。每个工作日早上更新，通勤路上听完，全天科技话题不掉队。
 本节目声音由 AI 合成，内容为新闻摘要与评论。</description>
@@ -17,7 +17,7 @@
     <itunes:image href="https://suxg001.github.io/daily-tech-news-podcast/cover-3000.jpg" />
     <image>
       <url>https://suxg001.github.io/daily-tech-news-podcast/cover-3000.jpg</url>
-      <title>每日科技速览</title>
+      <title>每日科技观察</title>
       <link>https://suxg001.github.io/daily-tech-news-podcast/</link>
     </image>
     <itunes:category text="Technology" />
